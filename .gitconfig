@@ -7,3 +7,5 @@
 [alias]
     br = branch
     co = checkout
+    sw = switch
+    ss = status
