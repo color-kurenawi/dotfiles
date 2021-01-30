@@ -11,3 +11,6 @@
     co = checkout
     sw = switch
     ss = status
+    sh = stash
+    sha = stash apply
+    shd = stash drop
