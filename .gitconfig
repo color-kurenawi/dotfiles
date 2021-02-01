@@ -14,3 +14,4 @@
     sh = stash
     sha = stash apply
     shd = stash drop
+    graph = log --graph --oneline
